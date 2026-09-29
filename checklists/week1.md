@@ -11,6 +11,6 @@
 - [ ] 比較軸を5つ決める（料金・容量・テザリング・乗り換えやすさ・eSIM対応 など）
 - [x] 9月の使用量を確認（24.32GB、content/profile.md）
 - [ ] 今後も月末・週次で使用量とWi-Fi/動画時間をメモ
-- [ ] `content/drafts/week1-note.md` を仕上げて公開
+- [ ] `content/drafts/week1-note.md`（20GB記事）を仕上げて公開
 - [ ] X 5投稿、Shorts 2本
 - [ ] 記事の広告クリックが計測できることを確認
